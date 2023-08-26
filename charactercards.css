@@ -1,0 +1,16 @@
+/* styles.css */
+.character-card {
+    width: 200px;
+    height: 300px;
+    background-color: /* species-specific color */;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.character-card:hover {
+    background-color: /* darker shade of species-specific color */;
+}
+
+.modal {
+    /* Modal styles here */
+}
